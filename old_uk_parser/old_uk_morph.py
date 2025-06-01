@@ -17,7 +17,7 @@ from sklearn_crfsuite import scorers, metrics
 from sklearn_crfsuite.utils import flatten
 from sklearn import metrics as skmetrics
 from IPython.display import JSON
-import load_dictionaries as ld
+from . import load_dictionaries as ld
 
 ns_dict = ld.ns_dict
 vs_dict = ld.vs_dict
