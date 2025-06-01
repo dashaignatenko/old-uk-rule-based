@@ -1,4 +1,5 @@
 from setuptools import setup, find_packages
+import os
 
 setup(
     name="old_uk_parser",
@@ -16,12 +17,12 @@ setup(
     ],
     include_package_data=True,
     package_data={
-        'old_uk_parser': ['*.json']
+        'old_uk_parser': ['*.json'] 
     },
     author="Daria Ignatenko",
     author_email="ignadash@gmail.com",
     description="Rule-based morphological parser for Old Ukrainian",
-    long_description=open('README.md').read(),
+    long_description=open('README.md', encoding='utf-8').read() if os.path.exists('README.md') else "Rule-based morphological parser for Old Ukrainian",
     long_description_content_type='text/markdown',
     url="https://github.com/dashaignatenko/old-uk-rule-based",
 )
