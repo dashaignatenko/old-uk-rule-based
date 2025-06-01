@@ -1,0 +1,361 @@
+{
+  "ого": {
+    "Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 42,
+    "Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Animacy=Anim|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 14,
+    "Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 16,
+    "Case=Gen|Degree=Sup|Gender=Masc|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 2,
+    "Case=Gen|Degree=Sup|Gender=Neut|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1,
+    "Case=Gen|Degree=|Gender=Masc|Number=Sing|Animacy=|NumForm=Word|NumType=Ord|Variant=|Typo=|Abbr=|Poss=": 2,
+    "Case=Gen|Degree=|Gender=Neut|Number=Sing|Animacy=|NumForm=Word|NumType=Ord|Variant=|Typo=|Abbr=|Poss=": 3,
+    "Case=Acc|Degree=Sup|Gender=Masc|Number=Sing|Animacy=Anim|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 2
+  },
+  "ую": {
+    "Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 27,
+    "Case=Acc|Degree=Cmp|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1,
+    "Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=Yes": 1
+  },
+  "ои": {
+    "Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 2,
+    "Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 6,
+    "Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1
+  },
+  "и": {
+    "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 14,
+    "Case=Nom|Degree=Sup|Gender=Masc|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1,
+    "Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 2,
+    "Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Animacy=|NumForm=|NumType=|Variant=Short|Typo=|Abbr=|Poss=": 7
+  },
+  "ый": {
+    "Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 5
+  },
+  "ии": {
+    "Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1,
+    "Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1,
+    "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1,
+    "Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 3,
+    "Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1
+  },
+  "": {
+    "Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 6,
+    "Case=Acc|Degree=|Gender=Neut|Number=Sing|Animacy=|NumForm=Digit|NumType=Ord|Variant=|Typo=|Abbr=|Poss=": 3,
+    "Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=Yes|Abbr=|Poss=": 1,
+    "Case=Acc|Degree=|Gender=Masc|Number=Sing|Animacy=|NumForm=Digit|NumType=Ord|Variant=|Typo=|Abbr=|Poss=": 2,
+    "Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 2,
+    "Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 5,
+    "Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1,
+    "Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 3,
+    "Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1,
+    "Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1,
+    "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Animacy=|NumForm=|NumType=|Variant=Short|Typo=|Abbr=|Poss=": 5,
+    "Case=|Degree=Pos|Gender=Neut|Number=Sing|Animacy=|NumForm=|NumType=|Variant=Short|Typo=|Abbr=|Poss=": 1,
+    "Case=Gen|Degree=Pos|Gender=Neut|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1,
+    "Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 4,
+    "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 2,
+    "Case=Gen|Degree=|Gender=Masc|Number=Sing|Animacy=|NumForm=Cyril|NumType=Ord|Variant=|Typo=|Abbr=|Poss=": 19,
+    "Case=Gen|Degree=|Gender=Masc|Number=Sing|Animacy=|NumForm=Digit|NumType=Ord|Variant=|Typo=|Abbr=|Poss=": 16,
+    "Case=Loc|Degree=|Gender=Masc|Number=Sing|Animacy=|NumForm=Cyril|NumType=Ord|Variant=|Typo=|Abbr=|Poss=": 4,
+    "Case=|Degree=|Gender=|Number=|Animacy=|NumForm=Cyril|NumType=Ord|Variant=|Typo=|Abbr=|Poss=": 1,
+    "Case=Nom|Degree=|Gender=Masc|Number=Sing|Animacy=|NumForm=Digit|NumType=Card|Variant=|Typo=|Abbr=|Poss=": 1,
+    "Case=Nom|Degree=|Gender=Fem|Number=Sing|Animacy=|NumForm=Cyril|NumType=Ord|Variant=|Typo=|Abbr=|Poss=": 3,
+    "Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Animacy=|NumForm=|NumType=|Variant=Short|Typo=|Abbr=|Poss=": 2,
+    "Case=|Degree=Pos|Gender=|Number=|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 4,
+    "Case=Gen|Degree=Cmp|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 3,
+    "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=Short|Typo=|Abbr=|Poss=": 1,
+    "Case=Nom|Degree=|Gender=Fem|Number=Sing|Animacy=|NumForm=Digit|NumType=Ord|Variant=|Typo=|Abbr=|Poss=": 1,
+    "Case=Loc|Degree=|Gender=Masc|Number=Sing|Animacy=|NumForm=Digit|NumType=Ord|Variant=|Typo=|Abbr=|Poss=": 1,
+    "Case=|Degree=|Gender=|Number=|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=Yes|Poss=": 1,
+    "Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1,
+    "Case=Loc|Degree=Sup|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1,
+    "Case=|Degree=|Gender=|Number=|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1,
+    "Case=Gen|Degree=|Gender=Neut|Number=Sing|Animacy=|NumForm=Cyril|NumType=Ord|Variant=|Typo=|Abbr=|Poss=": 1,
+    "Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1,
+    "Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Animacy=|NumForm=|NumType=|Variant=Short|Typo=|Abbr=|Poss=": 1
+  },
+  "ому": {
+    "Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 5,
+    "Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 23
+  },
+  "ему": {
+    "Case=Dat|Degree=Sup|Gender=Masc|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 2,
+    "Case=Dat|Degree=Sup|Gender=Neut|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1,
+    "Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1
+  },
+  "омъ": {
+    "Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 5,
+    "Case=Loc|Degree=|Gender=Masc|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 2
+  },
+  "о": {
+    "Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Animacy=|NumForm=|NumType=|Variant=Short|Typo=|Abbr=|Poss=": 13,
+    "Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 4,
+    "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Animacy=|NumForm=|NumType=|Variant=Short|Typo=|Abbr=|Poss=": 1,
+    "Case=|Degree=Pos|Gender=|Number=|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1,
+    "Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Animacy=|NumForm=|NumType=|Variant=Short|Typo=|Abbr=|Poss=": 1
+  },
+  "ыи": {
+    "Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 5,
+    "Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 3
+  },
+  "ыхъ": {
+    "Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 4,
+    "Case=Gen|Degree=Pos|Gender=Neut|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 5,
+    "Case=Loc|Degree=Pos|Gender=Fem|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1,
+    "Case=Loc|Degree=Pos|Gender=Neut|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 2,
+    "Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Animacy=Anim|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1,
+    "Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 3
+  },
+  "оя": {
+    "Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1
+  },
+  "ое": {
+    "Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 4,
+    "Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 7,
+    "Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1
+  },
+  "ыми": {
+    "Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 6,
+    "Case=Ins|Degree=Pos|Gender=Fem|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 4
+  },
+  "ими": {
+    "Case=Ins|Degree=Sup|Gender=Masc|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1,
+    "Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 4
+  },
+  "ою": {
+    "Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 10,
+    "Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1
+  },
+  "а": {
+    "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=Short|Typo=|Abbr=|Poss=": 7,
+    "Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Animacy=|NumForm=|NumType=|Variant=Short|Typo=|Abbr=|Poss=": 3,
+    "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 3,
+    "Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1,
+    "Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Animacy=|NumForm=|NumType=|Variant=Short|Typo=|Abbr=|Poss=": 1
+  },
+  "ва": {
+    "Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 2
+  },
+  "ю": {
+    "Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=Short|Typo=|Abbr=|Poss=": 3,
+    "Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Animacy=|NumForm=|NumType=|Variant=Short|Typo=|Abbr=|Poss=": 1
+  },
+  "у": {
+    "Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=Short|Typo=|Abbr=|Poss=": 3
+  },
+  "ова": {
+    "Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1,
+    "Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Animacy=Anim|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1,
+    "Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Animacy=Anim|NumForm=|NumType=|Variant=Short|Typo=|Abbr=|Poss=": 1
+  },
+  "й": {
+    "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 20,
+    "Case=Nom|Degree=Sup|Gender=Masc|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 2
+  },
+  "иeй": {
+    "Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1
+  },
+  "ий": {
+    "Case=Acc|Degree=|Gender=Masc|Number=Sing|Animacy=|NumForm=Word|NumType=Ord|Variant=|Typo=|Abbr=|Poss=": 2,
+    "Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 5,
+    "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1
+  },
+  "ꙑхъ": {
+    "Case=Gen|Degree=Pos|Gender=|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1
+  },
+  "ым": {
+    "Case=Dat|Degree=Pos|Gender=Neut|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1,
+    "Case=Ins|Degree=Pos|Gender=Neut|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 3,
+    "Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 4
+  },
+  "имъ": {
+    "Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 3,
+    "Case=Dat|Degree=Sup|Gender=|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1,
+    "Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 8,
+    "Case=Ins|Degree=Pos|Gender=Neut|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1
+  },
+  "емъ": {
+    "Case=Ins|Degree=Pos|Gender=Neut|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1,
+    "Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1,
+    "Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1
+  },
+  "аго": {
+    "Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Animacy=Anim|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 2,
+    "Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1,
+    "Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 3
+  },
+  "ом": {
+    "Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 6,
+    "Case=Loc|Degree=|Gender=Masc|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1
+  },
+  "ы": {
+    "Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Animacy=|NumForm=|NumType=|Variant=Short|Typo=|Abbr=|Poss=Yes": 1,
+    "Case=Nom|Degree=|Gender=Masc|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1,
+    "Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1,
+    "Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Animacy=|NumForm=|NumType=|Variant=Short|Typo=|Abbr=|Poss=": 1
+  },
+  "иии": {
+    "Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1
+  },
+  "ая": {
+    "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 10,
+    "Case=Nom|Degree=Sup|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 4,
+    "Case=Acc|Degree=Cmp|Gender=Neut|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1
+  },
+  "ыхь": {
+    "Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 3,
+    "Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1
+  },
+  "ой": {
+    "Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 10,
+    "Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 6,
+    "Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1,
+    "Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1
+  },
+  "оѝ": {
+    "Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 7
+  },
+  "ӣ": {
+    "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1
+  },
+  "ию": {
+    "Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=Short|Typo=|Abbr=|Poss=": 1,
+    "Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1
+  },
+  "ъ": {
+    "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Animacy=|NumForm=|NumType=|Variant=Short|Typo=|Abbr=|Poss=": 14,
+    "Case=|Degree=Pos|Gender=|Number=|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1,
+    "Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Animacy=|NumForm=|NumType=|Variant=Short|Typo=|Abbr=|Poss=": 1
+  },
+  "оӥ": {
+    "Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1
+  },
+  "іи": {
+    "Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1,
+    "Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1
+  },
+  "им": {
+    "Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 4,
+    "Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 5
+  },
+  "ых": {
+    "Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1,
+    "Case=Gen|Degree=Pos|Gender=Neut|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1,
+    "Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 2,
+    "Case=Loc|Degree=Pos|Gender=Neut|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1
+  },
+  "их": {
+    "Case=Gen|Degree=Pos|Gender=Neut|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1,
+    "Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 2,
+    "Case=Gen|Degree=|Gender=Fem|Number=Plur|Animacy=|NumForm=Word|NumType=Ord|Variant=|Typo=|Abbr=|Poss=": 1,
+    "Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 2
+  },
+  "іа": {
+    "Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1
+  },
+  "іею": {
+    "Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1
+  },
+  "е": {
+    "Case=Nom|Degree=Sup|Gender=Neut|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1
+  },
+  "ей": {
+    "Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 3,
+    "Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 2
+  },
+  "ею": {
+    "Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 5,
+    "Case=Acc|Degree=Cmp|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1
+  },
+  "ее": {
+    "Case=Acc|Degree=Sup|Gender=Neut|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1
+  },
+  "ій": {
+    "Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1,
+    "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1
+  },
+  "ихъ": {
+    "Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 4,
+    "Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 2,
+    "Case=Gen|Degree=Pos|Gender=Neut|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 5
+  },
+  "҃ую": {
+    "Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1
+  },
+  "ье": {
+    "Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1
+  },
+  "ꙑи": {
+    "Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1,
+    "Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1
+  },
+  "ыя": {
+    "Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1
+  },
+  "ꙑе": {
+    "Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1
+  },
+  "ымь": {
+    "Case=Ins|Degree=Pos|Gender=Neut|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 3
+  },
+  "имь": {
+    "Case=Ins|Degree=Pos|Gender=Neut|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1
+  },
+  "омь": {
+    "Case=Ins|Degree=Pos|Gender=Neut|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1
+  },
+  "ію": {
+    "Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1
+  },
+  "еѝ": {
+    "Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1
+  },
+  "его": {
+    "Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Animacy=Anim|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1,
+    "Case=Gen|Degree=|Gender=Neut|Number=Sing|Animacy=|NumForm=Word|NumType=Ord|Variant=|Typo=|Abbr=|Poss=": 2,
+    "Case=Gen|Degree=|Gender=Masc|Number=Sing|Animacy=|NumForm=Word|NumType=Ord|Variant=|Typo=|Abbr=|Poss=": 2,
+    "Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1
+  },
+  "аа": {
+    "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 2
+  },
+  "яа": {
+    "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1
+  },
+  "юю": {
+    "Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1
+  },
+  "яго": {
+    "Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Animacy=Anim|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1
+  },
+  "оӣ": {
+    "Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1
+  },
+  "ꙑми": {
+    "Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=Yes": 1
+  },
+  "ымъ": {
+    "Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 2
+  },
+  "ихь": {
+    "Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1,
+    "Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1
+  },
+  "ие": {
+    "Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 2,
+    "Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 2,
+    "Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 2
+  },
+  "ией": {
+    "Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1,
+    "Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1
+  },
+  "иею": {
+    "Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1
+  },
+  "ые": {
+    "Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1,
+    "Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 3,
+    "Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 5
+  },
+  "іе": {
+    "Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Animacy=|NumForm=|NumType=|Variant=|Typo=|Abbr=|Poss=": 1
+  }
+}

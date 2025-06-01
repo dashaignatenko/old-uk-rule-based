@@ -1,0 +1,150 @@
+{
+  "и": [
+    {
+      "word_form": "и",
+      "features": {}
+    },
+    {
+      "word_form": "і",
+      "features": {}
+    },
+    {
+      "word_form": "i",
+      "features": {}
+    },
+    {
+      "word_form": "и˙",
+      "features": {}
+    }
+  ],
+  "или": [
+    {
+      "word_form": "или",
+      "features": {}
+    }
+  ],
+  "а": [
+    {
+      "word_form": "а",
+      "features": {}
+    }
+  ],
+  "такъ": [
+    {
+      "word_form": "такъ",
+      "features": {}
+    },
+    {
+      "word_form": "так",
+      "features": {}
+    }
+  ],
+  "ани": [
+    {
+      "word_form": "ани",
+      "features": {}
+    },
+    {
+      "word_form": "аны",
+      "features": {
+        "Polarity": [
+          "Neg"
+        ]
+      }
+    },
+    {
+      "word_form": "ани",
+      "features": {
+        "Polarity": [
+          "Neg"
+        ]
+      }
+    }
+  ],
+  "любо": [
+    {
+      "word_form": "любо",
+      "features": {}
+    }
+  ],
+  "тако": [
+    {
+      "word_form": "тако",
+      "features": {}
+    }
+  ],
+  "ниже": [
+    {
+      "word_form": "ниже",
+      "features": {}
+    },
+    {
+      "word_form": "ниже",
+      "features": {
+        "Polarity": [
+          "Neg"
+        ]
+      }
+    }
+  ],
+  "або": [
+    {
+      "word_form": "або",
+      "features": {}
+    }
+  ],
+  "але": [
+    {
+      "word_form": "але",
+      "features": {}
+    }
+  ],
+  "зась": [
+    {
+      "word_form": "зась",
+      "features": {}
+    }
+  ],
+  "однакъ": [
+    {
+      "word_form": "однакъ",
+      "features": {}
+    },
+    {
+      "word_form": "ѡднакъ",
+      "features": {}
+    }
+  ],
+  "лечъ": [
+    {
+      "word_form": "лечъ",
+      "features": {}
+    }
+  ],
+  "тежъ": [
+    {
+      "word_form": "тежъ",
+      "features": {}
+    },
+    {
+      "word_form": "теж",
+      "features": {}
+    }
+  ],
+  "но": [
+    {
+      "word_form": "но",
+      "features": {}
+    }
+  ],
+  "также": [
+    {
+      "word_form": "также",
+      "features": {}
+    },
+    {
+      "word_form": "такъже",
+      "features": {}
+    }
+  ]
+}
