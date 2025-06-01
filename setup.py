@@ -16,6 +16,7 @@ setup(
         'sklearn-crfsuite>=0.3.6'
     ],
     include_package_data=True, 
+    package_data={"old_uk_parser": ["*.json"], "old_uk_parser": ["*.py"]},
     author="Daria Ignatenko",
     author_email="ignadash@gmail.com",
     description="Rule-based morphological parser for Old Ukrainian",
