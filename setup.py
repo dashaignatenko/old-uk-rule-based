@@ -4,7 +4,7 @@ import os
 setup(
     name="old_uk_parser",
     version="0.1.0",
-    packages=['old_uk_parser'], 
+    packages=find_packages(),
     install_requires=[
         'pyconll>=3.2.0',
         'fuzzywuzzy>=0.18.0',
