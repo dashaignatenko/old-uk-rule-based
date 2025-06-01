@@ -4,7 +4,7 @@ import os
 setup(
     name="old_uk_parser",
     version="0.1.0",
-    packages=find_packages(),
+    packages=['old_uk_parser'], 
     install_requires=[
         'pyconll>=3.2.0',
         'fuzzywuzzy>=0.18.0',
@@ -15,7 +15,7 @@ setup(
         'scipy>=1.10.0',
         'sklearn-crfsuite>=0.3.6'
     ],
-    include_package_data=True,
+    include_package_data=True, 
     author="Daria Ignatenko",
     author_email="ignadash@gmail.com",
     description="Rule-based morphological parser for Old Ukrainian",
