@@ -1,4 +1,7 @@
 import json
+import os
+
+CURRENT_DIR = os.path.dirname(__file__)
 
 def normalize_chars(word):
     char_map = {
@@ -44,48 +47,47 @@ def deserialize_dict(data):
         return data
 
 
-
-with open('norm_noun_suf.json', 'r', encoding='utf-8') as fp:
+with open(os.path.join(CURRENT_DIR, 'norm_noun_suf.json'), 'r', encoding='utf-8') as fp:
     ns_dict = convert_strings_to_tuples(json.load(fp))
-with open('norm_verb_suf.json', 'r', encoding='utf-8') as fp:
+with open(os.path.join(CURRENT_DIR, 'norm_verb_suf.json'), 'r', encoding='utf-8') as fp:
     vs_dict = convert_strings_to_tuples(json.load(fp))
-with open('norm_adj_suf.json', 'r', encoding='utf-8') as fp:
+with open(os.path.join(CURRENT_DIR, 'norm_adj_suf.json'), 'r', encoding='utf-8') as fp:
     adj_dict = convert_strings_to_tuples(json.load(fp))
-with open('norm_propn_suf.json', 'r', encoding='utf-8') as fp:
+with open(os.path.join(CURRENT_DIR, 'norm_propn_suf.json'), 'r', encoding='utf-8') as fp:
     nominal_all = convert_strings_to_tuples(json.load(fp))
 
 
-with open('norm_refined_nbases.json', 'r', encoding='utf-8') as fp:
+with open(os.path.join(CURRENT_DIR, 'norm_refined_nbases.json'), 'r', encoding='utf-8') as fp:
     nbases = convert_strings_to_tuples(json.load(fp))
-with open('norm_refined_vbases.json', 'r', encoding='utf-8') as fp:
+with open(os.path.join(CURRENT_DIR, 'norm_refined_vbases.json'), 'r', encoding='utf-8') as fp:
     vbases = convert_strings_to_tuples(json.load(fp))
-with open('norm_refined_adjbases.json', 'r', encoding='utf-8') as fp:
+with open(os.path.join(CURRENT_DIR, 'norm_refined_adjbases.json'), 'r', encoding='utf-8') as fp:
     adj_bases = convert_strings_to_tuples(json.load(fp))
-with open('norm_propn_bases.json', 'r', encoding='utf-8') as fp:
+with open(os.path.join(CURRENT_DIR, 'norm_propn_bases.json'), 'r', encoding='utf-8') as fp:
     propn_bases = convert_strings_to_tuples(json.load(fp))
 
 
-with open('norm_sconj.json', 'r', encoding='utf-8') as fp:
+with open(os.path.join(CURRENT_DIR, 'norm_sconj.json'), 'r', encoding='utf-8') as fp:
     sconj = deserialize_dict(json.load(fp))
-with open('norm_cconj.json', 'r', encoding='utf-8') as fp:
+with open(os.path.join(CURRENT_DIR, 'norm_cconj.json'), 'r', encoding='utf-8') as fp:
     cconj = deserialize_dict(json.load(fp))
-with open('norm_adp.json', 'r', encoding='utf-8') as fp:
+with open(os.path.join(CURRENT_DIR, 'norm_adp.json'), 'r', encoding='utf-8') as fp:
     adp = deserialize_dict(json.load(fp))
-with open('norm_pron.json', 'r', encoding='utf-8') as fp:
+with open(os.path.join(CURRENT_DIR, 'norm_pron.json'), 'r', encoding='utf-8') as fp:
     pron = deserialize_dict(json.load(fp))
-with open('norm_advs.json', 'r', encoding='utf-8') as fp:
+with open(os.path.join(CURRENT_DIR, 'norm_advs.json'), 'r', encoding='utf-8') as fp:
     advs = deserialize_dict(json.load(fp))
-with open('norm_det.json', 'r', encoding='utf-8') as fp:
+with open(os.path.join(CURRENT_DIR, 'norm_det.json'), 'r', encoding='utf-8') as fp:
     det = deserialize_dict(json.load(fp))
-with open('norm_part.json', 'r', encoding='utf-8') as fp:
+with open(os.path.join(CURRENT_DIR, 'norm_part.json'), 'r', encoding='utf-8') as fp:
     part = deserialize_dict(json.load(fp))
-with open('norm_aux.json', 'r', encoding='utf-8') as fp:
+with open(os.path.join(CURRENT_DIR, 'norm_aux.json'), 'r', encoding='utf-8') as fp:
     aux = deserialize_dict(json.load(fp))
-with open('norm_itj.json', 'r', encoding='utf-8') as fp:
+with open(os.path.join(CURRENT_DIR, 'norm_itj.json'), 'r', encoding='utf-8') as fp:
     itj = deserialize_dict(json.load(fp))
-with open('norm_num.json', 'r', encoding='utf-8') as fp:
+with open(os.path.join(CURRENT_DIR, 'norm_num.json'), 'r', encoding='utf-8') as fp:
     num = deserialize_dict(json.load(fp))
-with open('norm_sym.json', 'r', encoding='utf-8') as fp:
+with open(os.path.join(CURRENT_DIR, 'norm_sym.json'), 'r', encoding='utf-8') as fp:
     sym = deserialize_dict(json.load(fp))
 
 
