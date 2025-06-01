@@ -1,0 +1,376 @@
+{
+  "то": [
+    {
+      "word_form": "то",
+      "features": {}
+    }
+  ],
+  "коли": [
+    {
+      "word_form": "коли",
+      "features": {}
+    }
+  ],
+  "аже": [
+    {
+      "word_form": "аже",
+      "features": {}
+    }
+  ],
+  "иже": [
+    {
+      "word_form": "иже",
+      "features": {}
+    },
+    {
+      "word_form": "ижь",
+      "features": {}
+    }
+  ],
+  "такъ": [
+    {
+      "word_form": "такъ",
+      "features": {}
+    },
+    {
+      "word_form": "так",
+      "features": {}
+    }
+  ],
+  "ажъ": [
+    {
+      "word_form": "ажъ",
+      "features": {}
+    },
+    {
+      "word_form": "ажь",
+      "features": {}
+    }
+  ],
+  "же": [
+    {
+      "word_form": "же",
+      "features": {}
+    },
+    {
+      "word_form": "жє",
+      "features": {}
+    }
+  ],
+  "како": [
+    {
+      "word_form": "како",
+      "features": {}
+    }
+  ],
+  "ино": [
+    {
+      "word_form": "ино",
+      "features": {}
+    }
+  ],
+  "занужъ": [
+    {
+      "word_form": "занужъ",
+      "features": {}
+    }
+  ],
+  "какъ": [
+    {
+      "word_form": "какъ",
+      "features": {}
+    }
+  ],
+  "що": [
+    {
+      "word_form": "що",
+      "features": {}
+    },
+    {
+      "word_form": "счо",
+      "features": {}
+    }
+  ],
+  "докулъ": [
+    {
+      "word_form": "докулъ",
+      "features": {}
+    }
+  ],
+  "абы": [
+    {
+      "word_form": "абы",
+      "features": {}
+    },
+    {
+      "word_form": "абыхомъ",
+      "features": {
+        "Mood": [
+          "Cnd"
+        ],
+        "Number": [
+          "Plur"
+        ],
+        "Person": [
+          "1"
+        ]
+      }
+    },
+    {
+      "word_form": "абы",
+      "features": {
+        "Mood": [
+          "Cnd"
+        ]
+      }
+    },
+    {
+      "word_form": "абысмо",
+      "features": {
+        "Mood": [
+          "Cnd"
+        ],
+        "Number": [
+          "Plur"
+        ],
+        "Person": [
+          "1"
+        ]
+      }
+    },
+    {
+      "word_form": "аби",
+      "features": {
+        "Mood": [
+          "Cnd"
+        ]
+      }
+    }
+  ],
+  "оже": [
+    {
+      "word_form": "оже",
+      "features": {}
+    }
+  ],
+  "яко": [
+    {
+      "word_form": "яко",
+      "features": {}
+    },
+    {
+      "word_form": "ꙗко",
+      "features": {}
+    },
+    {
+      "word_form": "ꙗкъ",
+      "features": {}
+    }
+  ],
+  "тоть": [
+    {
+      "word_form": "тоть",
+      "features": {}
+    }
+  ],
+  "аби": [
+    {
+      "word_form": "аби",
+      "features": {}
+    },
+    {
+      "word_form": "аби",
+      "features": {
+        "Mood": [
+          "Cnd"
+        ]
+      }
+    }
+  ],
+  "зануже": [
+    {
+      "word_form": "зануже",
+      "features": {}
+    }
+  ],
+  "бо": [
+    {
+      "word_form": "бо",
+      "features": {}
+    }
+  ],
+  "если": [
+    {
+      "word_form": "если",
+      "features": {}
+    },
+    {
+      "word_form": "єсли",
+      "features": {}
+    }
+  ],
+  "кгды": [
+    {
+      "word_form": "кгды",
+      "features": {}
+    },
+    {
+      "word_form": "кгди",
+      "features": {}
+    }
+  ],
+  "што": [
+    {
+      "word_form": "што",
+      "features": {}
+    }
+  ],
+  "ижъ": [
+    {
+      "word_form": "ижъ",
+      "features": {}
+    },
+    {
+      "word_form": "иж",
+      "features": {}
+    },
+    {
+      "word_form": "іжъ",
+      "features": {}
+    },
+    {
+      "word_form": "ижь",
+      "features": {}
+    }
+  ],
+  "хотя": [
+    {
+      "word_form": "хотя",
+      "features": {}
+    },
+    {
+      "word_form": "хотѧ",
+      "features": {}
+    }
+  ],
+  "доколя": [
+    {
+      "word_form": "доколя",
+      "features": {}
+    },
+    {
+      "word_form": "доколѧ",
+      "features": {}
+    }
+  ],
+  "толко": [
+    {
+      "word_form": "толко",
+      "features": {}
+    }
+  ],
+  "якобы": [
+    {
+      "word_form": "якобы",
+      "features": {}
+    },
+    {
+      "word_form": "ꙗкобы",
+      "features": {}
+    }
+  ],
+  "Кгды": [
+    {
+      "word_form": "Кгды",
+      "features": {}
+    },
+    {
+      "word_form": "кгды",
+      "features": {}
+    }
+  ],
+  "нижли": [
+    {
+      "word_form": "нижли",
+      "features": {}
+    }
+  ],
+  "аза": [
+    {
+      "word_form": "аза",
+      "features": {}
+    }
+  ],
+  "азали": [
+    {
+      "word_form": "азали",
+      "features": {}
+    }
+  ],
+  "Азали": [
+    {
+      "word_form": "Азали",
+      "features": {}
+    },
+    {
+      "word_form": "азали",
+      "features": {}
+    }
+  ],
+  "тилко": [
+    {
+      "word_form": "тилко",
+      "features": {}
+    }
+  ],
+  "жебы": [
+    {
+      "word_form": "жебы",
+      "features": {}
+    },
+    {
+      "word_form": "жебы",
+      "features": {
+        "Mood": [
+          "Cnd"
+        ]
+      }
+    },
+    {
+      "word_form": "жеби",
+      "features": {
+        "Mood": [
+          "Cnd"
+        ]
+      }
+    }
+  ],
+  "якоже": [
+    {
+      "word_form": "якоже",
+      "features": {}
+    },
+    {
+      "word_form": "якож",
+      "features": {}
+    }
+  ],
+  "поки": [
+    {
+      "word_form": "поки",
+      "features": {}
+    }
+  ],
+  "якъ": [
+    {
+      "word_form": "якъ",
+      "features": {}
+    }
+  ],
+  "якожь": [
+    {
+      "word_form": "якожь",
+      "features": {}
+    }
+  ]
+}
