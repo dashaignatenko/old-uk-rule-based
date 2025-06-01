@@ -1,0 +1,508 @@
+{
+  "во": [
+    {
+      "word_form": "во",
+      "features": {}
+    }
+  ],
+  "на": [
+    {
+      "word_form": "на",
+      "features": {}
+    }
+  ],
+  "предъ": [
+    {
+      "word_form": "предъ",
+      "features": {}
+    },
+    {
+      "word_form": "пред",
+      "features": {}
+    },
+    {
+      "word_form": "прѣд",
+      "features": {}
+    },
+    {
+      "word_form": "пряд",
+      "features": {}
+    },
+    {
+      "word_form": "прєд",
+      "features": {}
+    }
+  ],
+  "въ": [
+    {
+      "word_form": "въ",
+      "features": {}
+    },
+    {
+      "word_form": "оу",
+      "features": {}
+    },
+    {
+      "word_form": "в",
+      "features": {}
+    },
+    {
+      "word_form": "у",
+      "features": {}
+    },
+    {
+      "word_form": "во",
+      "features": {}
+    },
+    {
+      "word_form": "ѹ",
+      "features": {}
+    }
+  ],
+  "коло": [
+    {
+      "word_form": "коло",
+      "features": {}
+    }
+  ],
+  "у": [
+    {
+      "word_form": "у",
+      "features": {}
+    },
+    {
+      "word_form": "оу",
+      "features": {}
+    },
+    {
+      "word_form": "въ",
+      "features": {}
+    }
+  ],
+  "чересь": [
+    {
+      "word_form": "чересь",
+      "features": {}
+    }
+  ],
+  "зъ": [
+    {
+      "word_form": "зъ",
+      "features": {}
+    },
+    {
+      "word_form": "с",
+      "features": {}
+    },
+    {
+      "word_form": "съ",
+      "features": {}
+    },
+    {
+      "word_form": "з",
+      "features": {}
+    },
+    {
+      "word_form": "исъ",
+      "features": {}
+    },
+    {
+      "word_form": "ис",
+      "features": {}
+    },
+    {
+      "word_form": "зо",
+      "features": {}
+    },
+    {
+      "word_form": "со",
+      "features": {}
+    },
+    {
+      "word_form": "из",
+      "features": {}
+    }
+  ],
+  "межи": [
+    {
+      "word_form": "межи",
+      "features": {}
+    }
+  ],
+  "подлѣ": [
+    {
+      "word_form": "подлѣ",
+      "features": {}
+    }
+  ],
+  "поперекъ": [
+    {
+      "word_form": "поперекъ",
+      "features": {}
+    },
+    {
+      "word_form": "поперек",
+      "features": {}
+    }
+  ],
+  "къ": [
+    {
+      "word_form": "къ",
+      "features": {}
+    },
+    {
+      "word_form": "к",
+      "features": {}
+    },
+    {
+      "word_form": "кь",
+      "features": {}
+    }
+  ],
+  "до": [
+    {
+      "word_form": "до",
+      "features": {}
+    }
+  ],
+  "изъ": [
+    {
+      "word_form": "изъ",
+      "features": {}
+    },
+    {
+      "word_form": "и",
+      "features": {}
+    }
+  ],
+  "отъ": [
+    {
+      "word_form": "отъ",
+      "features": {}
+    },
+    {
+      "word_form": "от",
+      "features": {}
+    },
+    {
+      "word_form": "ѡт",
+      "features": {}
+    },
+    {
+      "word_form": "ѿ",
+      "features": {}
+    }
+  ],
+  "из": [
+    {
+      "word_form": "из",
+      "features": {}
+    },
+    {
+      "word_form": "изь",
+      "features": {}
+    }
+  ],
+  "поперекь": [
+    {
+      "word_form": "поперекь",
+      "features": {}
+    }
+  ],
+  "звыше": [
+    {
+      "word_form": "звыше",
+      "features": {}
+    }
+  ],
+  "изниже": [
+    {
+      "word_form": "изниже",
+      "features": {}
+    }
+  ],
+  "по": [
+    {
+      "word_form": "по",
+      "features": {}
+    }
+  ],
+  "при": [
+    {
+      "word_form": "при",
+      "features": {}
+    },
+    {
+      "word_form": "пр",
+      "features": {}
+    }
+  ],
+  "подъ": [
+    {
+      "word_form": "подъ",
+      "features": {}
+    },
+    {
+      "word_form": "под",
+      "features": {}
+    }
+  ],
+  "ко": [
+    {
+      "word_form": "ко",
+      "features": {}
+    }
+  ],
+  "презь": [
+    {
+      "word_form": "презь",
+      "features": {}
+    }
+  ],
+  "без": [
+    {
+      "word_form": "без",
+      "features": {}
+    }
+  ],
+  "за": [
+    {
+      "word_form": "за",
+      "features": {}
+    }
+  ],
+  "безь": [
+    {
+      "word_form": "безь",
+      "features": {}
+    }
+  ],
+  "противъ": [
+    {
+      "word_form": "противъ",
+      "features": {}
+    },
+    {
+      "word_form": "против",
+      "features": {}
+    }
+  ],
+  "чересъ": [
+    {
+      "word_form": "чересъ",
+      "features": {}
+    },
+    {
+      "word_form": "через",
+      "features": {}
+    }
+  ],
+  "ку": [
+    {
+      "word_form": "ку",
+      "features": {}
+    },
+    {
+      "word_form": "кꙋ",
+      "features": {}
+    }
+  ],
+  "мимо": [
+    {
+      "word_form": "мимо",
+      "features": {}
+    }
+  ],
+  "межъ": [
+    {
+      "word_form": "межъ",
+      "features": {}
+    }
+  ],
+  "о": [
+    {
+      "word_form": "о",
+      "features": {}
+    },
+    {
+      "word_form": "ѡ",
+      "features": {}
+    }
+  ],
+  "дѣля": [
+    {
+      "word_form": "дѣля",
+      "features": {}
+    },
+    {
+      "word_form": "дилѣ",
+      "features": {}
+    }
+  ],
+  "для": [
+    {
+      "word_form": "для",
+      "features": {}
+    },
+    {
+      "word_form": "длѣ",
+      "features": {}
+    },
+    {
+      "word_form": "длѧ",
+      "features": {}
+    }
+  ],
+  "выше": [
+    {
+      "word_form": "выше",
+      "features": {}
+    }
+  ],
+  "вь": [
+    {
+      "word_form": "вь",
+      "features": {}
+    }
+  ],
+  "черезъ": [
+    {
+      "word_form": "черезъ",
+      "features": {}
+    },
+    {
+      "word_form": "через",
+      "features": {}
+    }
+  ],
+  "надъ": [
+    {
+      "word_form": "надъ",
+      "features": {}
+    },
+    {
+      "word_form": "над",
+      "features": {}
+    }
+  ],
+  "около": [
+    {
+      "word_form": "около",
+      "features": {}
+    },
+    {
+      "word_form": "ѡколо",
+      "features": {}
+    }
+  ],
+  "ведле": [
+    {
+      "word_form": "ведле",
+      "features": {}
+    }
+  ],
+  "презъ": [
+    {
+      "word_form": "презъ",
+      "features": {}
+    },
+    {
+      "word_form": "през",
+      "features": {}
+    }
+  ],
+  "про": [
+    {
+      "word_form": "про",
+      "features": {}
+    }
+  ],
+  "передъ": [
+    {
+      "word_form": "передъ",
+      "features": {}
+    },
+    {
+      "word_form": "перед",
+      "features": {}
+    },
+    {
+      "word_form": "перєдо",
+      "features": {}
+    },
+    {
+      "word_form": "пєредо",
+      "features": {}
+    },
+    {
+      "word_form": "передо",
+      "features": {}
+    }
+  ],
+  "вмѣсто": [
+    {
+      "word_form": "вмѣсто",
+      "features": {}
+    },
+    {
+      "word_form": "въмѣсто",
+      "features": {}
+    }
+  ],
+  "передо": [
+    {
+      "word_form": "передо",
+      "features": {}
+    },
+    {
+      "word_form": "пєрєдо",
+      "features": {}
+    },
+    {
+      "word_form": "пєредо",
+      "features": {}
+    }
+  ],
+  "ведлугъ": [
+    {
+      "word_form": "ведлугъ",
+      "features": {}
+    },
+    {
+      "word_form": "вєдлугъ",
+      "features": {}
+    },
+    {
+      "word_form": "вердлугъ!",
+      "features": {}
+    },
+    {
+      "word_form": "ведлуг",
+      "features": {}
+    },
+    {
+      "word_form": "вєдлуг",
+      "features": {}
+    }
+  ],
+  "послѣ": [
+    {
+      "word_form": "послѣ",
+      "features": {}
+    },
+    {
+      "word_form": "послє",
+      "features": {}
+    }
+  ],
+  "кромѣ": [
+    {
+      "word_form": "кромѣ",
+      "features": {}
+    },
+    {
+      "word_form": "кроме",
+      "features": {}
+    }
+  ]
+}

@@ -1,0 +1,978 @@
+{
+  "быти": [
+    {
+      "word_form": "быти",
+      "features": {}
+    },
+    {
+      "word_form": "боудет",
+      "features": {
+        "Mood": [
+          "Ind"
+        ],
+        "Number": [
+          "Sing"
+        ],
+        "Person": [
+          "3"
+        ],
+        "Tense": [
+          "Fut"
+        ],
+        "VerbForm": [
+          "Fin"
+        ],
+        "Voice": [
+          "Act"
+        ]
+      }
+    },
+    {
+      "word_form": "соуть",
+      "features": {
+        "Aspect": [
+          "Imp"
+        ],
+        "Mood": [
+          "Ind"
+        ],
+        "Number": [
+          "Plur"
+        ],
+        "Person": [
+          "3"
+        ],
+        "Tense": [
+          "Pres"
+        ],
+        "VerbForm": [
+          "Fin"
+        ],
+        "Voice": [
+          "Act"
+        ]
+      }
+    },
+    {
+      "word_form": "єсмо",
+      "features": {
+        "Analyt": [
+          "Yes"
+        ],
+        "Number": [
+          "Sing"
+        ],
+        "Person": [
+          "1"
+        ],
+        "Tense": [
+          "Pres"
+        ],
+        "VerbForm": [
+          "Fin"
+        ],
+        "Voice": [
+          "Act"
+        ]
+      }
+    },
+    {
+      "word_form": "єсть",
+      "features": {
+        "Mood": [
+          "Ind"
+        ],
+        "Number": [
+          "Sing"
+        ],
+        "Person": [
+          "3"
+        ],
+        "Tense": [
+          "Pres"
+        ],
+        "VerbForm": [
+          "Fin"
+        ],
+        "Voice": [
+          "Act"
+        ]
+      }
+    },
+    {
+      "word_form": "єсмо",
+      "features": {
+        "Mood": [
+          "Ind"
+        ],
+        "Number": [
+          "Plur"
+        ],
+        "Person": [
+          "1"
+        ],
+        "Tense": [
+          "Pres"
+        ],
+        "VerbForm": [
+          "Fin"
+        ],
+        "Voice": [
+          "Act"
+        ]
+      }
+    },
+    {
+      "word_form": "были",
+      "features": {
+        "Number": [
+          "Plur"
+        ],
+        "Tense": [
+          "Past"
+        ],
+        "VerbForm": [
+          "PartRes"
+        ],
+        "Voice": [
+          "Act"
+        ]
+      }
+    },
+    {
+      "word_form": "было",
+      "features": {
+        "Gender": [
+          "Neut"
+        ],
+        "Number": [
+          "Sing"
+        ],
+        "Tense": [
+          "Past"
+        ],
+        "VerbForm": [
+          "PartRes"
+        ],
+        "Voice": [
+          "Act"
+        ]
+      }
+    },
+    {
+      "word_form": "есь",
+      "features": {
+        "Mood": [
+          "Ind"
+        ],
+        "Number": [
+          "Sing"
+        ],
+        "Person": [
+          "3"
+        ],
+        "Tense": [
+          "Pres"
+        ],
+        "VerbForm": [
+          "Fin"
+        ],
+        "Voice": [
+          "Act"
+        ]
+      }
+    },
+    {
+      "word_form": "быти",
+      "features": {
+        "VerbForm": [
+          "Inf"
+        ],
+        "Voice": [
+          "Act"
+        ]
+      }
+    },
+    {
+      "word_form": "есми",
+      "features": {
+        "Mood": [
+          "Ind"
+        ],
+        "Number": [
+          "Sing"
+        ],
+        "Person": [
+          "1"
+        ],
+        "Tense": [
+          "Pres"
+        ],
+        "VerbForm": [
+          "Fin"
+        ],
+        "Voice": [
+          "Act"
+        ]
+      }
+    },
+    {
+      "word_form": "будетъ",
+      "features": {
+        "Mood": [
+          "Ind"
+        ],
+        "Number": [
+          "Sing"
+        ],
+        "Person": [
+          "3"
+        ],
+        "Tense": [
+          "Fut"
+        ],
+        "VerbForm": [
+          "Fin"
+        ],
+        "Voice": [
+          "Act"
+        ]
+      }
+    },
+    {
+      "word_form": "быти",
+      "features": {
+        "Aspect": [
+          "Imp"
+        ],
+        "VerbForm": [
+          "Inf"
+        ],
+        "Voice": [
+          "Act"
+        ]
+      }
+    },
+    {
+      "word_form": "будущіи",
+      "features": {
+        "Case": [
+          "Nom"
+        ],
+        "Gender": [
+          "Masc"
+        ],
+        "Number": [
+          "Plur"
+        ],
+        "Tense": [
+          "Pres"
+        ],
+        "VerbForm": [
+          "Part"
+        ],
+        "Voice": [
+          "Act"
+        ]
+      }
+    },
+    {
+      "word_form": "есмы",
+      "features": {
+        "Mood": [
+          "Ind"
+        ],
+        "Number": [
+          "Plur"
+        ],
+        "Person": [
+          "1"
+        ],
+        "Tense": [
+          "Pres"
+        ],
+        "VerbForm": [
+          "Fin"
+        ],
+        "Voice": [
+          "Act"
+        ]
+      }
+    },
+    {
+      "word_form": "быхомъ",
+      "features": {
+        "Aspect": [
+          "Perf"
+        ],
+        "Mood": [
+          "Ind"
+        ],
+        "Number": [
+          "Plur"
+        ],
+        "Person": [
+          "1"
+        ],
+        "Tense": [
+          "Past"
+        ],
+        "VerbForm": [
+          "Fin"
+        ],
+        "Voice": [
+          "Act"
+        ]
+      }
+    },
+    {
+      "word_form": "был",
+      "features": {
+        "Gender": [
+          "Masc"
+        ],
+        "Number": [
+          "Sing"
+        ],
+        "Tense": [
+          "Past"
+        ],
+        "VerbForm": [
+          "PartRes"
+        ],
+        "Voice": [
+          "Act"
+        ]
+      }
+    },
+    {
+      "word_form": "есмо",
+      "features": {
+        "Mood": [
+          "Ind"
+        ],
+        "Number": [
+          "Sing"
+        ],
+        "Person": [
+          "1"
+        ],
+        "Tense": [
+          "Pres"
+        ],
+        "VerbForm": [
+          "Fin"
+        ],
+        "Voice": [
+          "Act"
+        ]
+      }
+    },
+    {
+      "word_form": "есть",
+      "features": {
+        "Mood": [
+          "Ind"
+        ],
+        "Number": [
+          "Sing"
+        ],
+        "Person": [
+          "3"
+        ],
+        "Tense": [
+          "Pres"
+        ],
+        "VerbForm": [
+          "Fin"
+        ],
+        "Voice": [
+          "Act"
+        ]
+      }
+    },
+    {
+      "word_form": "будет",
+      "features": {
+        "Mood": [
+          "Ind"
+        ],
+        "Number": [
+          "Sing"
+        ],
+        "Person": [
+          "3"
+        ],
+        "Tense": [
+          "Fut"
+        ],
+        "VerbForm": [
+          "Fin"
+        ],
+        "Voice": [
+          "Act"
+        ]
+      }
+    },
+    {
+      "word_form": "была",
+      "features": {
+        "Gender": [
+          "Fem"
+        ],
+        "Number": [
+          "Sing"
+        ],
+        "Tense": [
+          "Past"
+        ],
+        "VerbForm": [
+          "PartRes"
+        ],
+        "Voice": [
+          "Act"
+        ]
+      }
+    },
+    {
+      "word_form": "естъ",
+      "features": {
+        "Mood": [
+          "Ind"
+        ],
+        "Number": [
+          "Sing"
+        ],
+        "Person": [
+          "3"
+        ],
+        "Tense": [
+          "Pres"
+        ],
+        "VerbForm": [
+          "Fin"
+        ],
+        "Voice": [
+          "Act"
+        ]
+      }
+    },
+    {
+      "word_form": "бꙋдетъ",
+      "features": {
+        "Mood": [
+          "Ind"
+        ],
+        "Number": [
+          "Sing"
+        ],
+        "Person": [
+          "3"
+        ],
+        "Tense": [
+          "Fut"
+        ],
+        "VerbForm": [
+          "Fin"
+        ],
+        "Voice": [
+          "Act"
+        ]
+      }
+    },
+    {
+      "word_form": "боудте",
+      "features": {
+        "Mood": [
+          "Ind"
+        ],
+        "Number": [
+          "Sing"
+        ],
+        "Person": [
+          "3"
+        ],
+        "Tense": [
+          "Fut"
+        ],
+        "VerbForm": [
+          "Fin"
+        ],
+        "Voice": [
+          "Act"
+        ]
+      }
+    },
+    {
+      "word_form": "мъ",
+      "features": {
+        "Mood": [
+          "Ind"
+        ],
+        "Number": [
+          "Sing"
+        ],
+        "Person": [
+          "1"
+        ],
+        "Tense": [
+          "Pres"
+        ],
+        "VerbForm": [
+          "Fin"
+        ],
+        "Voice": [
+          "Act"
+        ]
+      }
+    },
+    {
+      "word_form": "былъ",
+      "features": {
+        "Gender": [
+          "Masc"
+        ],
+        "Number": [
+          "Sing"
+        ],
+        "Tense": [
+          "Past"
+        ],
+        "VerbForm": [
+          "PartRes"
+        ],
+        "Voice": [
+          "Act"
+        ]
+      }
+    },
+    {
+      "word_form": "бым",
+      "features": {
+        "Mood": [
+          "Cnd"
+        ],
+        "Number": [
+          "Sing"
+        ],
+        "Person": [
+          "1"
+        ]
+      }
+    },
+    {
+      "word_form": "бы",
+      "features": {
+        "Mood": [
+          "Cnd"
+        ]
+      }
+    },
+    {
+      "word_form": "бымъ",
+      "features": {
+        "Mood": [
+          "Cnd"
+        ],
+        "Number": [
+          "Sing"
+        ],
+        "Person": [
+          "1"
+        ]
+      }
+    },
+    {
+      "word_form": "есте",
+      "features": {
+        "Mood": [
+          "Ind"
+        ],
+        "Number": [
+          "Plur"
+        ],
+        "Person": [
+          "2"
+        ],
+        "Tense": [
+          "Pres"
+        ],
+        "VerbForm": [
+          "Fin"
+        ],
+        "Voice": [
+          "Act"
+        ]
+      }
+    },
+    {
+      "word_form": "боудетъ",
+      "features": {
+        "Mood": [
+          "Ind"
+        ],
+        "Number": [
+          "Sing"
+        ],
+        "Person": [
+          "3"
+        ],
+        "Tense": [
+          "Fut"
+        ],
+        "VerbForm": [
+          "Fin"
+        ],
+        "Voice": [
+          "Act"
+        ]
+      }
+    },
+    {
+      "word_form": "еси",
+      "features": {
+        "Mood": [
+          "Ind"
+        ],
+        "Number": [
+          "Sing"
+        ],
+        "Person": [
+          "2"
+        ],
+        "Tense": [
+          "Pres"
+        ],
+        "VerbForm": [
+          "Fin"
+        ],
+        "Voice": [
+          "Act"
+        ]
+      }
+    },
+    {
+      "word_form": "боудем",
+      "features": {
+        "Mood": [
+          "Ind"
+        ],
+        "Number": [
+          "Plur"
+        ],
+        "Person": [
+          "1"
+        ],
+        "Tense": [
+          "Fut"
+        ],
+        "VerbForm": [
+          "Fin"
+        ],
+        "Voice": [
+          "Act"
+        ]
+      }
+    },
+    {
+      "word_form": "мъ",
+      "features": {
+        "Analyt": [
+          "Yes"
+        ],
+        "Number": [
+          "Sing"
+        ],
+        "Person": [
+          "1"
+        ]
+      }
+    },
+    {
+      "word_form": "смы",
+      "features": {
+        "Mood": [
+          "Ind"
+        ],
+        "Number": [
+          "Plur"
+        ],
+        "Person": [
+          "1"
+        ],
+        "Tense": [
+          "Pres"
+        ],
+        "VerbForm": [
+          "Fin"
+        ],
+        "Voice": [
+          "Act"
+        ]
+      }
+    },
+    {
+      "word_form": "боудꙋчи",
+      "features": {
+        "Tense": [
+          "Pres"
+        ],
+        "VerbForm": [
+          "Conv"
+        ],
+        "Voice": [
+          "Act"
+        ]
+      }
+    },
+    {
+      "word_form": "соуть",
+      "features": {
+        "Mood": [
+          "Ind"
+        ],
+        "Number": [
+          "Plur"
+        ],
+        "Person": [
+          "3"
+        ],
+        "Tense": [
+          "Pres"
+        ],
+        "VerbForm": [
+          "Fin"
+        ],
+        "Voice": [
+          "Act"
+        ]
+      }
+    },
+    {
+      "word_form": "м",
+      "features": {
+        "Mood": [
+          "Ind"
+        ],
+        "Number": [
+          "Sing"
+        ],
+        "Person": [
+          "1"
+        ],
+        "Tense": [
+          "Pres"
+        ],
+        "VerbForm": [
+          "Fin"
+        ],
+        "Voice": [
+          "Act"
+        ]
+      }
+    },
+    {
+      "word_form": "єси",
+      "features": {
+        "Mood": [
+          "Ind"
+        ],
+        "Number": [
+          "Sing"
+        ],
+        "Person": [
+          "2"
+        ],
+        "Tense": [
+          "Pres"
+        ],
+        "VerbForm": [
+          "Fin"
+        ],
+        "Voice": [
+          "Act"
+        ]
+      }
+    },
+    {
+      "word_form": "смо",
+      "features": {
+        "Mood": [
+          "Ind"
+        ],
+        "Number": [
+          "Plur"
+        ],
+        "Person": [
+          "1"
+        ],
+        "Tense": [
+          "Pres"
+        ],
+        "VerbForm": [
+          "Fin"
+        ],
+        "Voice": [
+          "Act"
+        ]
+      }
+    },
+    {
+      "word_form": "емъ",
+      "features": {
+        "Mood": [
+          "Ind"
+        ],
+        "Number": [
+          "Plur"
+        ],
+        "Person": [
+          "1"
+        ],
+        "Tense": [
+          "Pres"
+        ],
+        "VerbForm": [
+          "Fin"
+        ],
+        "Voice": [
+          "Act"
+        ]
+      }
+    },
+    {
+      "word_form": "єст",
+      "features": {
+        "Mood": [
+          "Ind"
+        ],
+        "Number": [
+          "Sing"
+        ],
+        "Person": [
+          "3"
+        ],
+        "Tense": [
+          "Pres"
+        ],
+        "VerbForm": [
+          "Fin"
+        ],
+        "Voice": [
+          "Act"
+        ]
+      }
+    },
+    {
+      "word_form": "ест",
+      "features": {
+        "Mood": [
+          "Ind"
+        ],
+        "Number": [
+          "Sing"
+        ],
+        "Person": [
+          "3"
+        ],
+        "Tense": [
+          "Pres"
+        ],
+        "VerbForm": [
+          "Fin"
+        ],
+        "Voice": [
+          "Act"
+        ]
+      }
+    },
+    {
+      "word_form": "сут",
+      "features": {
+        "Mood": [
+          "Ind"
+        ],
+        "Number": [
+          "Plur"
+        ],
+        "Person": [
+          "3"
+        ],
+        "Tense": [
+          "Pres"
+        ],
+        "VerbForm": [
+          "Fin"
+        ],
+        "Voice": [
+          "Act"
+        ]
+      }
+    },
+    {
+      "word_form": "єстъ",
+      "features": {
+        "Mood": [
+          "Ind"
+        ],
+        "Number": [
+          "Sing"
+        ],
+        "Person": [
+          "3"
+        ],
+        "Tense": [
+          "Pres"
+        ],
+        "VerbForm": [
+          "Fin"
+        ],
+        "Voice": [
+          "Act"
+        ]
+      }
+    },
+    {
+      "word_form": "єсмо",
+      "features": {
+        "Number": [
+          "Plur"
+        ],
+        "Person": [
+          "1"
+        ],
+        "Tense": [
+          "Pres"
+        ],
+        "VerbForm": [
+          "Fin"
+        ],
+        "Voice": [
+          "Act"
+        ]
+      }
+    }
+  ],
+  "бы": [
+    {
+      "word_form": "бы",
+      "features": {}
+    },
+    {
+      "word_form": "бы",
+      "features": {
+        "Mood": [
+          "Cnd"
+        ]
+      }
+    },
+    {
+      "word_form": "би",
+      "features": {
+        "Mood": [
+          "Cnd"
+        ]
+      }
+    }
+  ]
+}
