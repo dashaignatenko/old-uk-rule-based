@@ -15,4 +15,4 @@ from old_uk_parser import analyse_token
 
 ## Full pipeline inference
 
-Complete inference with incorporated contextual disambiguation is provided in the [notebook](old-uk-rule-based/old_uk_parser_inference.ipynb)
+Complete inference with incorporated contextual disambiguation is provided in the [notebook](old_uk_parser_inference.ipynb)
