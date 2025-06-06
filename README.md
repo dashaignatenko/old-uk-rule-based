@@ -12,3 +12,7 @@ pip install git+https://github.com/dashaignatenko/old-uk-rule-based.git
 ```bash
 from old_uk_parser import analyse_token
 ```
+
+## Full pipeline inference
+
+Complete inference with incorporated contextual disambiguation is provided in the [notebook](old-uk-rule-based/old_uk_parser_inference.ipynb)
