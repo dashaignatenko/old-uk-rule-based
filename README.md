@@ -11,6 +11,8 @@ pip install git+https://github.com/dashaignatenko/old-uk-rule-based.git
 
 ```bash
 from old_uk_parser import analyse_token
+
+analyse_token(word, upos)
 ```
 
 ## Full pipeline inference
